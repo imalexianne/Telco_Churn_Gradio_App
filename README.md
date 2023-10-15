@@ -4,12 +4,6 @@ app_file: gradapp.py
 sdk: gradio
 sdk_version: 3.34.0
 ---
----
-title: Telco_Churn_Gradio_App
-app_file: gradapp.py
-sdk: gradio
-sdk_version: 3.34.0
----
 
 ## Description
 
@@ -21,12 +15,10 @@ The application offers an intuitive and user-friendly interface for predicting c
 
 
 # Interface Input Features
-* Gender: Gender of the customer (Male/Female).
+* Tenure: The number of months the customer has been with the company.
 * Partner: Whether the customer has a partner (Yes/No).
 * Dependents: Whether the customer has dependents (Yes/No).
-* Tenure: The number of months the customer has been with the company.
 * Internet Service: Type of internet service (DSL/Fiber optic/No).
-* Phone Service: Whether the customer has phone service (Yes/No).
 * Multiple Lines: Whether the customer has multiple phone lines (Yes/No).
 * Contract: Type of contract the customer has (Month-to-month/One year/Two year).
 * Monthly Charges: Amount of monthly charges.
@@ -42,15 +34,7 @@ The application offers an intuitive and user-friendly interface for predicting c
 * Streaming Movies: Whether the customer uses streaming movies service (Yes/No).
 
 # Article 
-Here is the [Article Link](https://medium.com/@NewtonKimathi/imagine-youve-developed-a-sophisticated-machine-learning-model-in-this-case-one-that-predicts-ba6c0286b2c7)
 
-Also check out my latest articles here:
-
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@@NewtonKimathi/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@@NewtonKimathi/0" alt="Recent Article 0"> 
-
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@@NewtonKimathi/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@@NewtonKimathi/1" alt="Recent Article 1">
-
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@@NewtonKimathi/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@@NewtonKimathi/2" alt="Recent Article 2">
 
 
 # Usage
